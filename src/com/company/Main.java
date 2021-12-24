@@ -8,6 +8,7 @@ public class Main {
         System.out.println(number(34,-5));
         System.out.println(number(50,-3));
         System.out.println(number(20,6));
+
     }
 
 
