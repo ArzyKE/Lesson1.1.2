@@ -19,7 +19,7 @@ public class Main {
         }  else if (agePerson> 45 && temperature >= -10 && temperature <= 25) {
             return "можно идти гулять";
         } else {
-            return "оставайтeсь дома ";
+            return "оставайтecь дома ";
         }
     }
 }
